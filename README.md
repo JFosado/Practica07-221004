@@ -46,15 +46,11 @@ jupyter notebook
 ## 📁 Archivos incluidos
 
 - `Practica07-221004.ipynb`: Notebook principal con ejemplos, ejercicios y explicaciones.
-- `*.csv` (si aplica): Archivos de ejemplo para cargar en los DataFrames (asegúrate de tenerlos en el mismo directorio si son necesarios).
 
 ## 👨‍🏫 Autor
 
 José Ángel Fosado Ánimas  
-[Tu correo o enlace a LinkedIn, opcional]  
 
 ---
 
-## 🧠 Notas adicionales
 
-Esta práctica es ideal para estudiantes que están comenzando con la manipulación de datos y quieren entender los fundamentos de análisis con Pandas antes de pasar a tareas más avanzadas como visualización o machine learning.
